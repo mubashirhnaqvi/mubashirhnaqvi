@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Mubashir Hassan Naqvi 👋
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mubashirhnaqvi)](https://git.io/streak-stats)
 <!--
 **mubashirhnaqvi/mubashirhnaqvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
